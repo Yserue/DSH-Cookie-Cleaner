@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Build outputs
+*.exe
+build/
+dist/
+*.spec
+
+# Runtime data
+*.log
+backups/
+*.bak.*
+config.json
+
+# Generated assets (root fallback icon only; assets/app.ico is the shipped icon)
+/app.ico
+/icon-preview.png
+/assets/icon-preview.png
+
+# OS / editor
+Thumbs.db
+.DS_Store
